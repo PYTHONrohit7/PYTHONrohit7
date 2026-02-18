@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Rohit Paliwal !
-
+🎓 M. Tech in Data Engineering From IIT Jodhpur
 🎓 B.Tech in Artificial Intelligence and Data Science  
 📍 Based in Rajasthan, India  
-🔬 Intern at State Remote Sensing and Application Centre (SRSAC), Jodhpur  
+🔬 GIS Developer at State Remote Sensing and Application Centre (SRSAC), Jodhpur  
 💼 Aspiring Data Scientist | AI/ML Engineer | Developer  
 
 ---
